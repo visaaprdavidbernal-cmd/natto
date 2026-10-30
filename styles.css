@@ -19,9 +19,10 @@ nav a {
 }
 
 main {
-    padding: 3rem 2rem;
+    padding: 2rem 3rem;
     max-width: 800px;
     margin: 0 auto;
+    margin-left: -2rem;
 }
 
 .metodo-titulo {
