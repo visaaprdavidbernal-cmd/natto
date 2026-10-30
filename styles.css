@@ -1,0 +1,69 @@
+body {
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+h1 {
+    color: brown;
+    font-size: 2.5rem;
+}
+
+header {
+    padding: 1.5rem 2rem;
+    border-bottom: 5px solid black;
+}
+
+nav a {
+    color: salmon;
+}
+
+main {
+    padding: 3rem 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.metodo-titulo {
+    font-size: 1.1rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-bottom: 0.25rem;
+    color: chocolate;
+}
+
+.precio {
+    font-weight: bold;
+    color: saddlebrown;
+}
+
+.imagen-horario {
+    padding: 2rem 5rem;    
+    color: saddlebrown;
+    
+}
+
+#reservas {
+    align-items: center;
+    gap: 0.75rem;
+}
+
+#contador-tazas {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: saddlebrown;
+}
+
+#boton-reservar {
+    display: block;
+    margin-top: 1rem;
+    padding: 0.5rem 1.25rem;
+    background-color: saddlebrown;
+    color: aliceblue;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+
